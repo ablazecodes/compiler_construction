@@ -12,10 +12,13 @@ Any IDE with the support of CPP (C++) language will be compatible. I used VS Cod
 
 ### Authors
 Shreya Shukla 
-[@ablazecodes]
+[@ablazecodes](https://github.com/ablazecodes)
 
 ### Acknowledgments
 
 Inspiration, code snippets, etc.
 * Sumita Arora, Computer Science with C++
 * [Tutorial Point](https://www.tutorialpoint.com)
+
+### Contributions
+Any contribution is welcomed. Feel free to update, or suggest any optimizations.
